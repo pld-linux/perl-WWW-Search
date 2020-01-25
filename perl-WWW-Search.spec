@@ -4,7 +4,6 @@
 #
 %define		pdir	WWW
 %define		pnam	Search
-%include	/usr/lib/rpm/macros.perl
 Summary:	WWW::Search - Virtual base class for WWW searches
 Name:		perl-WWW-Search
 Version:	2.518
